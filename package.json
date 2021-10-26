@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/effycoco/front-end-react.git"
+    "url": "git+ssh://git@github.com/effycoco/git-test.git"
   },
   "author": "Effy Wang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/effycoco/front-end-react/issues"
+    "url": "https://github.com/effycoco/git-test/issues"
   },
-  "homepage": "https://github.com/effycoco/front-end-react#readme",
+  "homepage": "https://github.com/effycoco/git-test#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
   }
